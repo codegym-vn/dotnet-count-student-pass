@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnet-count-student-pass/1.0.0": {
+        "runtime": {
+          "dotnet-count-student-pass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-count-student-pass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

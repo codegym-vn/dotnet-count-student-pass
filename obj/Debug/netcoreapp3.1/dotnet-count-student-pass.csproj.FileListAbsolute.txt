@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-count-student-pass\bin\Debug\netcoreapp3.1\dotnet-count-student-pass.exe
+D:\CodeGym\Bai2\dotnet-count-student-pass\bin\Debug\netcoreapp3.1\dotnet-count-student-pass.deps.json
+D:\CodeGym\Bai2\dotnet-count-student-pass\bin\Debug\netcoreapp3.1\dotnet-count-student-pass.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-count-student-pass\bin\Debug\netcoreapp3.1\dotnet-count-student-pass.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-count-student-pass\bin\Debug\netcoreapp3.1\dotnet-count-student-pass.dll
+D:\CodeGym\Bai2\dotnet-count-student-pass\bin\Debug\netcoreapp3.1\dotnet-count-student-pass.pdb
+D:\CodeGym\Bai2\dotnet-count-student-pass\obj\Debug\netcoreapp3.1\dotnet-count-student-pass.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-count-student-pass\obj\Debug\netcoreapp3.1\dotnet-count-student-pass.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-count-student-pass\obj\Debug\netcoreapp3.1\dotnet-count-student-pass.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-count-student-pass\obj\Debug\netcoreapp3.1\dotnet-count-student-pass.dll
+D:\CodeGym\Bai2\dotnet-count-student-pass\obj\Debug\netcoreapp3.1\dotnet-count-student-pass.pdb
